@@ -2,5 +2,53 @@
 
 #EXTM3U
 
-#EXTINF:1, ΠΟΥΛΑ ΜΕ - ΠΥΞ ΛΑΞ
-plugin://plugin.video.youtube/?action=play_video&videoid=ln74ZNteZ38
+#EXTINF:1, SHAPE OF YOU - Ed Sheeran
+plugin://plugin.video.youtube/?action=play_video&videoid=o71_MatpYV0
+
+#EXTINF:1, DESPACITO - Luis Fonsi, Daddy Yankee ft. Justin Bieber 
+plugin://plugin.video.youtube/?action=play_video&videoid=jRpDuEgqQQQ
+
+#EXTINF:1, HOTEL CALIFORNIA - Eagles
+plugin://plugin.video.youtube/?action=play_video&videoid=Q4pclo5M9XI
+
+#EXTINF:1, IMAGINE - John Lennon
+plugin://plugin.video.youtube/?action=play_video&videoid=wshbS_lz1dE
+
+#EXTINF:1, LET IT BE - The Beatles
+plugin://plugin.video.youtube/?action=play_video&videoid=dSVovg06NQg
+
+#EXTINF:1, UNBREAK MY HEART - Toni Braxton
+plugin://plugin.video.youtube/?action=play_video&videoid=-dCVUUVX8uw
+
+#EXTINF:1, DON'T SPEAK - No Doubt
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, HEAL THE WORLD - Michael Jackson
+plugin://plugin.video.youtube/?action=play_video&videoid=Ns10OyuvCgM
+
+#EXTINF:1, THEY DON'T CARE ABOUT US - Michael Jackson
+plugin://plugin.video.youtube/?action=play_video&videoid=nG8FZ9yRev8
+
+#EXTINF:1, SMOOTH CRIMINAL - Michael Jackson
+plugin://plugin.video.youtube/?action=play_video&videoid=4rfwN3J3-jk
+
+#EXTINF:1, BILLIE JEAN - Michael Jackson
+plugin://plugin.video.youtube/?action=play_video&videoid=eXqBhDAlVCc
+
+#EXTINF:1, TOTAL ECLIPSE OF THE HEART - Bonnie Tyler 
+plugin://plugin.video.youtube/?action=play_video&videoid=HTXiC8g3F40
+
+#EXTINF:1, LISTEN TO YOUR HEART - Roxette
+plugin://plugin.video.youtube/?action=play_video&videoid=wTE9tzKbyoQ
+
+#EXTINF:1, KILLING ME SOFTLY - The Fugees
+plugin://plugin.video.youtube/?action=play_video&videoid=RPtJzF1fxJ0
+
+#EXTINF:1, LA ISLA BONITA - Madonna
+plugin://plugin.video.youtube/?action=play_video&videoid=NnZ-JQsWrWw
+
+#EXTINF:1, MY HEART WILL GO ON - Celine Dion
+plugin://plugin.video.youtube/?action=play_video&videoid=IQEzFe9-bsg
+
+#EXTINF:1, WE ARE THE WORLD
+plugin://plugin.video.youtube/?action=play_video&videoid=r9q3fxBTMDs
